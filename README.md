@@ -6,6 +6,5 @@
 4. 重排一个目录中的CONLL文件的 sent_id项目 reorder_sentid.py
 ## 依赖
 1. STANZA和英文语言包
-2. 
 ## 用法
 1. 在每个模块的帮助文档中
