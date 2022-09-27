@@ -8,3 +8,6 @@
 1. STANZA和英文语言包
 ## 用法
 1. 在每个模块的帮助文档中
+2. 创建一个RESULT文件夹用于存储depparse_leipzig的输出
+3. 创建一个SPLIT文件夹用于存储divide_leipzig的输出
+4. 创建一个RECORDERED文件夹用于存储reorder_sentid的输出
